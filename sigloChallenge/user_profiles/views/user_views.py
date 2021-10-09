@@ -6,7 +6,7 @@ from sigloChallenge.user_profiles.serializers.user_serializer import UserSeriali
 
 class UserViewSet(viewsets.ModelViewSet):
     """
-    API endpoint that allows users to be viewed or edited.
+    API endpoint that allows full CRUD operations on users
     """
 
     queryset = User.objects.all().order_by("-date_joined")
