@@ -1,10 +1,10 @@
 # :globe_with_meridians: Siglo coding Challenge
 Small coding task to complete the interview process for [Siglo](https://www.siglo.com)
 
-⚠ This repository is the backend part of a full stack task, to have the full project runing also clone [this repo](https://github.com/alexMtzRivero/SigloCallengeFrontend) 
+⚠ This repository is the backend part of a full stack task, to have the full project running also clone [this repo](https://github.com/alexMtzRivero/SigloCallengeFrontend) 
 ### Getting started
 
-create the file "sigloChallenge/.env" with the credentals for your mysql, the file should look like the following: 
+create the file "sigloChallenge/.env" with the credentials for your mysql, the file should look like the following: 
 ```
 DB_USER="root"
 DB_PASSWORD="yourSuperSecretPassword"
